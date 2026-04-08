@@ -11,5 +11,8 @@ import { ProductCardComponent } from '../product-card/product-card.component';
 })
 export class ProductCardListComponent {
   @Input()
+  authors!: string[];
+
+  @Input()
   products!: Product[];
 }
