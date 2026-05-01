@@ -13,6 +13,10 @@ import { ProductCardComponent } from '../product-card/product-card.component';
 export class ProductCardListComponent {
   readonly products = input<Product[]>([]);
 
+  readonly edit = output<Product>();
+
+  readonly remove = output<Product>();
+
   readonly view = output<Product>();
 
   pageIndex = 1;
