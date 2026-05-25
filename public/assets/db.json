@@ -111,6 +111,18 @@
       "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
       "createDate": "2023-10-17T00:00:00.000+08:00",
       "price": 1000
+    },
+    {
+      "name": "測試",
+      "company": "mcu",
+      "authors": [
+        "A"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2026-05-25T08:22:46.577Z",
+      "id": "uKDv-i6hGZo"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
