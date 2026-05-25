@@ -113,16 +113,17 @@
       "price": 1000
     },
     {
+      "id": "uKDv-i6hGZo",
       "name": "測試",
       "company": "mcu",
       "authors": [
-        "A"
+        "A",
+        "B"
       ],
       "price": 10000,
       "isShow": true,
       "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
-      "createDate": "2026-05-25T08:22:46.577Z",
-      "id": "uKDv-i6hGZo"
+      "createDate": "2026-05-25T08:32:21.790Z"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
